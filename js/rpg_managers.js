@@ -1462,10 +1462,10 @@ SceneManager._sceneStarted      = false;
 SceneManager._exiting           = false;
 SceneManager._previousClass     = null;
 SceneManager._backgroundBitmap  = null;
-SceneManager._screenWidth       = 1280;
-SceneManager._screenHeight      = 720;
-SceneManager._boxWidth          = 1280;
-SceneManager._boxHeight         = 720;
+SceneManager._screenWidth       = 1120;
+SceneManager._screenHeight      = 630;
+SceneManager._boxWidth          = 1120;
+SceneManager._boxHeight         = 630;
 
 SceneManager.run = function(sceneClass) {
     try {
